@@ -40,9 +40,11 @@ export function Cart() {
               <CartHeaderItem>
                 <span>PRODUTO</span>
               </CartHeaderItem>
+
               <CartHeaderItem>
                 <span>QTD</span>
               </CartHeaderItem>
+              
               <CartHeaderItem>
                 <span>SUBTOTAL</span>
               </CartHeaderItem>
