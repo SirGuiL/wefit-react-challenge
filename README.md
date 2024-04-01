@@ -4,9 +4,11 @@ Para rodar o projeto, utilize os comendos
 
 ```
 yarn server
+```
 
 e
 
+```
 yarn dev
 ```
 
